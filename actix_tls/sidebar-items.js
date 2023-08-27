@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["accept","TLS acceptor services for Actix ecosystem."],["connect","TCP connector services for Actix ecosystem."]]});
+window.SIDEBAR_ITEMS = {"mod":["accept","connect"]};

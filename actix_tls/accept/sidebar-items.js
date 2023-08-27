@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["TlsError","TLS error combined with service error."]],"fn":[["max_concurrent_tls_connect","Sets the maximum per-worker concurrent TLS connection limit."]],"mod":[["native_tls",""],["openssl",""],["rustls",""]]});
+window.SIDEBAR_ITEMS = {"enum":["TlsError"],"fn":["max_concurrent_tls_connect"],"mod":["native_tls","openssl","rustls_0_20","rustls_0_21"]};

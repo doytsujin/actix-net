@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["new","Start server building process"]],"struct":[["Server","Server handle."],["ServerBuilder","Server builder"],["TestServer","A testing server."]],"trait":[["ServiceFactory",""]]});
+window.SIDEBAR_ITEMS = {"enum":["MpTcp"],"struct":["Server","ServerBuilder","ServerHandle","TestServer"]};

@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Acceptor","Accept TLS connections via `rustls` package."],["AcceptorService","Rustls based `Acceptor` service"],["AcceptorServiceFut",""],["ServerConfig","Common configuration for a set of server sessions."],["TlsStream","Wrapper type for `tokio_openssl::SslStream` in order to impl `ActixStream` trait."]]});
